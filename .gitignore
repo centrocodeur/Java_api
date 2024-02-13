@@ -19,7 +19,7 @@ HELP.md
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
-/Dockerfile
+/Dockerfile/
 /dist/
 /nbdist/
 /.nb-gradle/
