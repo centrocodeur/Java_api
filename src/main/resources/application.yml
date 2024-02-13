@@ -1,0 +1,10 @@
+spring:
+ datasource:
+   url: jdbc:mariadb://mysql-marien.alwaysdata.net/marien_studidb
+   password:  xfdSzNx.jU56!ER
+   username:  marien_test
+  # driver-class-name: org.mariadb.jdbc.Driver
+ jpa:
+   hibernate:
+     ddl-auto: create-drop
+   show-sql: true

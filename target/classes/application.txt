@@ -1,0 +1,7 @@
+spring.datasource.url=jdbc:mariadb://mysql-marien.alwaysdata.net/marien_db
+spring.datasource.username=marien_taps
+spring.datasource.password=ElisaMathis@2023
+spring.datasource.driver-class-name=org.mariadb.jdbc.Driver
+spring.jpa.hibernate.dll-auto=create
+spring.jpa.hibernate.show-sql=true
+spring.server.port=8081
